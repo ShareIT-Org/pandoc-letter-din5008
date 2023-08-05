@@ -10,6 +10,12 @@ Effortlessly write professional letters with the Pandoc Letter Template. Simply 
 
 ## Usage
 
+Install a few packages. In Ubuntu I installed these:
+
+```bash
+apt install pandoc texlive-latex-recommended texlive-fonts-extra texlive-science texlive-music
+```
+
 Clone this repository or download the template with the following command:
 
 ```bash

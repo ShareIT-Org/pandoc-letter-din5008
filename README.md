@@ -13,7 +13,7 @@ Effortlessly write professional letters with the Pandoc Letter Template. Simply 
 Install a few packages. In Ubuntu I installed these:
 
 ```bash
-apt install pandoc texlive-latex-recommended texlive-fonts-extra texlive-science texlive-music
+apt install pandoc texlive texlive-latex-recommended texlive-fonts-extra texlive-science texlive-music texlive-lang-german texlive-latex-extra
 ```
 
 Clone this repository or download the template with the following command:
